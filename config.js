@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Sky Group",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Stephen Fabbro",
@@ -26,7 +15,13 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Sky Group",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "https://calendly.com/theskygroup/discovery-call",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +59,8 @@ const config = {
         "Every property they loved sold for tens of thousands above asking, leaving them wondering if they'd ever secure something without drastically overpaying",
         "The fear of getting priced out of their beloved neighbourhood was keeping them up at night—watching their window of opportunity close with each passing month",
         "They desperately wanted to keep their condo as a rental investment, but conventional wisdom said they'd have to sell it to afford the upsize"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"We can't believe we actually did it. That we managed to stay in this area and for way less than we had expected to pay. We thought we'd have to sell our condo and say goodbye to having any investment property, but Stephen and the team showed us a path we didn't know existed. This is our forever home together—where we'll raise our family, in the neighbourhood we love, and we still own our first place as a rental. It feels like we won the lottery, but really, we just had the right strategy and the right team.\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765637843424-Interior 1 .jpg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -100,7 +98,8 @@ const config = {
         "Secured their dream 5-bedroom semi-detached with the perfect main floor for entertaining, private backyard, and parking—everything on their wish list",
         "Closed in 60 days on their terms, in a market where sellers typically dictate conditions",
         "Now living walking distance from their rental property in the exact neighbourhood they refused to leave"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -109,7 +108,8 @@ const config = {
         "<strong>Speed and preparation beat hesitation every time.</strong> In hyper-competitive pockets, the buyer who's pre-approved, pre-strategized, and ready to move within hours wins—not the one who needs to \"think about it.\"",
         "<strong>Not every market correction applies everywhere.</strong> While headlines scream about falling prices, elite neighbourhoods with limited inventory still move fast and hold value—don't let generalized market news lull you into thinking you have endless time.",
         "<strong>Creative financing unlocks possibilities you think are closed.</strong> Working with a team that connects you to mortgage specialists who understand investment strategies can mean the difference between selling your first property or building a portfolio."
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -121,24 +121,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://www.mls.theskygroup.ca/privacy-policy"
+    },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761147528200-Headshot - Stephen Fabbro (1).png"
+    },
+    "secondaryLogo": {
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Property_logo_W.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Property.ca Inc",
     "brokerageAddress": "36 Distillery Lane unit 500, Toronto, ON M5A 3C4",
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Property_logo_W.png"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://www.mls.theskygroup.ca/privacy-policy"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-345"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
