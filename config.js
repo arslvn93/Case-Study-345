@@ -30,14 +30,14 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How We Helped an Upsizing Couple Secure Their Forever Home in Toronto's Most Competitive Neighbourhood—At Asking Price, With Zero Competition",
+      "title": "How We Helped an Upsizing Couple Secure Their Forever Home in Toronto's Most Competitive Neighbourhood. At Asking Price, With Zero Competition",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765637832603-Front 2.jpg"
       },
       "subTitle": "Summary",
       "paragraphs": [
         "A young couple living in a condo in Toronto's vibrant Roncesvalles neighbourhood had outgrown their space. With plans to start a family, they needed more room—but leaving the community where they met and built their life together wasn't an option they wanted to consider.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>PURCHASED AT FULL ASKING PRICE ($1,718,000)</strong> in a neighbourhood where comparable homes routinely sell $50K-$100K+ over ask <strong>ELIMINATED ALL COMPETITION</strong> before other buyers could even book viewings—no bidding war, no stress, no overpaying <strong>KEPT THEIR CONDO</strong> as a rental property, instantly creating a real estate investment portfolio they never thought they could afford Secured their dream 5-bedroom semi-detached with the perfect main floor for entertaining, private backyard, and parking—everything on their wish list Closed in 60 days on their terms, in a market where sellers typically dictate conditions Now living walking distance from their rental property in the exact neighbourhood they refused to leave"
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>PURCHASED AT FULL ASKING PRICE ($1,718,000)</strong> in a neighbourhood where comparable homes routinely sell $50K-$100K+ over ask <strong>. ELIMINATED ALL COMPETITION</strong> before other buyers could even book viewings—no bidding war, no stress, no overpaying <strong>. KEPT THEIR CONDO</strong> as a rental property, instantly creating a real estate investment portfolio they never thought they could afford Secured their dream 5-bedroom semi-detached with the perfect main floor for entertaining, private backyard, and parking—everything on their wish list. Closed in 60 days on their terms, in a market where sellers typically dictate conditions. Now living walking distance from their rental property in the exact neighbourhood they refused to leave"
       ]
     },
     "sidebar": {
