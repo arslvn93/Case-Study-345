@@ -72,9 +72,6 @@ const config = {
         "Crafted an offer with psychological leverage: asking price with an aggressive irrevocable deadline, substantial deposit, personal letter, and a photo of the bank draft to demonstrate serious intent",
         "Played hardball when the seller's agent tried to extract more money and extend our deadline—we held firm, knowing our terms were already stronger than any competition that might surface"
       ],
-      "testimonial": {
-        "quote": "\"We can't believe we actually did it. That we managed to stay in this area and for way less than we had expected to pay. We thought we'd have to sell our condo and say goodbye to having any investment property, but Stephen and the team showed us a path we didn't know existed. This is our forever home together—where we'll raise our family, in the neighbourhood we love, and we still own our first place as a rental. It feels like we won the lottery, but really, we just had the right strategy and the right team.\"<br><span>— Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
