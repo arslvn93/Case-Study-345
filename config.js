@@ -78,7 +78,7 @@ const config = {
       "type": "standard",
       "title": "The Solution",
       "paragraphs": [
-        "After months of frustration watching homes slip away, they reached out to us. What sealed the deal wasn't promises—it was our personalized game plan. We sat down and mapped out every step, every cost, and every scenario, creating a strategic preparation protocol for when the right home hit the market."
+        "After months of frustration watching homes slip away, they reached out to us. What sealed the deal wasn't promises, it was our personalized game plan. We sat down and mapped out every step, every cost, and every scenario, creating a strategic preparation protocol for when the right home hit the market."
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765637843424-Interior 1 .jpg"
@@ -102,8 +102,8 @@ const config = {
       "type": "standard",
       "title": "Conclusion",
       "paragraphs": [
-        "<strong>Speed and preparation beat hesitation every time.</strong> In hyper-competitive pockets, the buyer who's pre-approved, pre-strategized, and ready to move within hours wins—not the one who needs to \"think about it.\"",
-        "<strong>Not every market correction applies everywhere.</strong> While headlines scream about falling prices, elite neighbourhoods with limited inventory still move fast and hold value—don't let generalized market news lull you into thinking you have endless time.",
+        "<strong>Speed and preparation beat hesitation every time.</strong> In hyper-competitive pockets, the buyer who's pre-approved, pre-strategized, and ready to move within hours wins not the one who needs to \"think about it.\"",
+        "<strong>Not every market correction applies everywhere.</strong> While headlines scream about falling prices, elite neighbourhoods with limited inventory still move fast and hold value, don't let generalized market news lull you into thinking you have endless time.",
         "<strong>Creative financing unlocks possibilities you think are closed.</strong> Working with a team that connects you to mortgage specialists who understand investment strategies can mean the difference between selling your first property or building a portfolio."
       ],
       "listItems": []
