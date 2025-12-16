@@ -25,7 +25,7 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How We Helped an Upsizing Couple Secure Their Forever Home in Toronto's Most Competitive Neighbourhood—At Asking Price, With Zero Competition",
+    "title": "How We Helped an Upsizing Couple Secure Their Forever Home in Toronto's Most Competitive Neighbourhood. At Asking Price, With Zero Competition",
     "subheadline": "Secured Their Dream Semi-Detached in Roncesvalles Without Overpaying—And Kept Their Condo as a Rental Investment"
   },
   "mainBox": {
