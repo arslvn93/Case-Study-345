@@ -57,7 +57,7 @@ const config = {
       "paragraphs": [
         "Hunting in one of Toronto's most cutthroat micro-markets where homes disappeared within 48 hours, often with 5+ competing offers",
         "Every property they loved sold for tens of thousands above asking, leaving them wondering if they'd ever secure something without drastically overpaying",
-        "The fear of getting priced out of their beloved neighbourhood was keeping them up at night—watching their window of opportunity close with each passing month",
+        "The fear of getting priced out of their beloved neighbourhood was keeping them up at night watching their window of opportunity close with each passing month",
         "They desperately wanted to keep their condo as a rental investment, but conventional wisdom said they'd have to sell it to afford the upsize"
       ],
       "listItems": []
@@ -66,11 +66,11 @@ const config = {
       "type": "standard",
       "title": "The Strategy",
       "paragraphs": [
-        "Designed a rapid-response viewing system—we booked the first available showing slot at 7:30 AM, before most buyers even finished their coffee, giving us first-mover advantage",
+        "Designed a rapid-response viewing system, we booked the first available showing slot at 7:30 AM, before most buyers even finished their coffee, giving us first-mover advantage",
         "Pre-drafted all offer paperwork with terms strategically structured to eliminate seller hesitation, ready to submit within minutes of viewing",
-        "Connected them with our mortgage specialist who engineered creative financing that allowed them to keep their condo AND buy their forever home—something they thought was financially impossible",
+        "Connected them with our mortgage specialist who engineered creative financing that allowed them to keep their condo AND buy their forever home, something they thought was financially impossible",
         "Crafted an offer with psychological leverage: asking price with an aggressive irrevocable deadline, substantial deposit, personal letter, and a photo of the bank draft to demonstrate serious intent",
-        "Played hardball when the seller's agent tried to extract more money and extend our deadline—we held firm, knowing our terms were already stronger than any competition that might surface"
+        "Played hardball when the seller's agent tried to extract more money and extend our deadline, we held firm, knowing our terms were already stronger than any competition that might surface"
       ],
       "listItems": []
     },
@@ -90,9 +90,9 @@ const config = {
       "title": "The Results",
       "paragraphs": [
         "<strong>PURCHASED AT FULL ASKING PRICE ($1,718,000)</strong> in a neighbourhood where comparable homes routinely sell $50K-$100K+ over ask",
-        "<strong>ELIMINATED ALL COMPETITION</strong> before other buyers could even book viewings—no bidding war, no stress, no overpaying",
+        "<strong>ELIMINATED ALL COMPETITION</strong> before other buyers could even book viewings, no bidding war, no stress, no overpaying",
         "<strong>KEPT THEIR CONDO</strong> as a rental property, instantly creating a real estate investment portfolio they never thought they could afford",
-        "Secured their dream 5-bedroom semi-detached with the perfect main floor for entertaining, private backyard, and parking—everything on their wish list",
+        "Secured their dream 5-bedroom semi-detached with the perfect main floor for entertaining, private backyard, and parking, everything on their wish list",
         "Closed in 60 days on their terms, in a market where sellers typically dictate conditions",
         "Now living walking distance from their rental property in the exact neighbourhood they refused to leave"
       ],
@@ -112,7 +112,7 @@ const config = {
       "type": "ctaBanner",
       "ctaBannerContent": {
         "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
-        "headline": "Book Your Personalized Home Buying Strategy Session—We'll Map Out Your Exact Path to Winning in Toronto's Toughest Neighbourhoods Without Overpaying",
+        "headline": "Book Your Personalized Home Buying Strategy Session. We'll Map Out Your Exact Path to Winning in Toronto's Toughest Neighbourhoods Without Overpaying",
         "smallText": "Book A Discovery Call Now ➡️"
       }
     }
