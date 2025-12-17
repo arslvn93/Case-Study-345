@@ -3,7 +3,7 @@ const config = {
     "agents": [
       {
         "name": "Stephen Fabbro",
-        "imageSrc": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761147528200-Headshot - Stephen Fabbro (1).png",
+        "imageSrc": "",
         "contactDetails": [
           {
             "type": "email",
@@ -12,6 +12,26 @@ const config = {
           {
             "type": "phone",
             "value": "6479229302"
+          }
+        ]
+      },
+      {
+        "name": "Shar Banifateni",
+        "imageSrc": "",
+        "contactDetails": [
+          {
+            "type": "email",
+            "value": "shar@theskygroup.ca"
+          }
+        ]
+      },
+      {
+        "name": "Oudi Elmalem",
+        "imageSrc": "",
+        "contactDetails": [
+          {
+            "type": "email",
+            "value": "oudi@theskygroup.ca"
           }
         ]
       }
