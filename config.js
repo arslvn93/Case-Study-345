@@ -21,7 +21,7 @@ const config = {
     "mainCTAButtonURL": "https://calendly.com/theskygroup/discovery-call",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
-    "facebookPixelId": ""
+    "facebookPixelId": "380781217326789"
   },
   "header": {
     "tag": "CASE STUDY",
