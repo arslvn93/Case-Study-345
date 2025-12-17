@@ -140,7 +140,7 @@ const config = {
   "footer": {
     "privacyPolicy": {
       "text": "Privacy Policy",
-      "href": "https://www.mls.theskygroup.ca/privacy-policy"
+      "href": "https://property.ca/privacy"
     },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761147528200-Headshot - Stephen Fabbro (1).png"
